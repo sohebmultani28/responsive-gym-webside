@@ -3,6 +3,7 @@ ALL CODE IS INDEX . HTML
 "html"
 "css"
 "java script"
+PICHER OF THE  PROJECT
 
 ![Screenshot 2024-08-09 222822](https://github.com/user-attachments/assets/6a8c375d-136d-473e-8dcc-34e6dc8c43dd)
 ![Screenshot 2024-08-09 222840](https://github.com/user-attachments/assets/b5690137-795d-4e00-bd48-b12bddc4aba1)
