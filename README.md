@@ -1,5 +1,5 @@
 # gym
-ALL CODE IS INDEX . HTML 
+ALL CODE IS GYM.HTML 
 "html"
 "css"
 "java script"
